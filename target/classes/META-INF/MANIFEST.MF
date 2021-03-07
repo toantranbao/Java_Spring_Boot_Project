@@ -1,11 +1,11 @@
 Manifest-Version: 1.0
+Built-By: admin
+Build-Jdk: 11.0.8
 Implementation-Title: SpringBootFirst
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: admin
 Implementation-Vendor-Id: SpringBootFirst
-Build-Jdk: 1.8.0_271
-Implementation-URL: http://projects.spring.io/spring-boot/SpringBootFi
- rst/
-Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootFirs
+ t/
+Created-By: Maven Integration for Eclipse
 
