@@ -15,7 +15,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @Table(name = "EMPLOYEE", schema = "public")
 public class Employee {
-	
+
 	@Id
 	@Column(name = "EMPLOYEE_ID")
 	private String employeeId;
